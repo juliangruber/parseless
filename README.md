@@ -32,6 +32,15 @@ parse('foo: bar;')
 */
 ```
 
+Running the tests
+-----------------
+
+```bash
+$ npm install
+$ npm install -g mocha
+$ mocha
+```
+
 License
 -------
 
