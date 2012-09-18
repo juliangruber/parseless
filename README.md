@@ -1,6 +1,13 @@
 parseless
 =========
 
+Aims:
+
+* be unobstrusive. the full less/css code should be recreatable from the ast
+* preserver inline comments
+* add multiline comments as full nodes
+* don't parse everything. `foo: bar` is nothing more than an attribute-node
+
 Usage
 -----
 
