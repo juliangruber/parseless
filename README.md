@@ -19,9 +19,8 @@ $ npm install parseless
 var parse = require('parseless');
 
 parse('foo: bar;')
+
 /*
-  => 
-  
   {
     data: '',
     children: [
@@ -35,7 +34,6 @@ parse('foo: bar;')
     parent: [Circular],
     type: 'block'
   }
-
 */
 ```
 
