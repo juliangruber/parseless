@@ -1,5 +1,5 @@
-parseless
-=========
+
+# parseless
 
 Aims:
 
@@ -8,8 +8,7 @@ Aims:
 * add multiline comments as full nodes
 * don't parse everything. `foo: bar` is nothing more than an attribute-node
 
-Usage
------
+## Usage
 
 ```bash
 $ npm install parseless
@@ -37,8 +36,7 @@ parse('foo: bar;')
 */
 ```
 
-Running the tests
------------------
+## Running the tests
 
 ```bash
 $ npm install
@@ -46,8 +44,7 @@ $ npm install -g mocha
 $ mocha
 ```
 
-License
--------
+## License
 
 (MIT)
 
