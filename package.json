@@ -4,6 +4,10 @@
   "author": "Julian Gruber <julian@juliangruber.com>",
   "repository": "git://github.com/juliangruber/parseless",
   "devDependencies": {
-    "should": "*"
+    "should": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "mocha"
   }
 }
