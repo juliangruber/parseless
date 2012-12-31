@@ -1,5 +1,6 @@
-
 # parseless
+
+[![Build Status](https://travis-ci.org/juliangruber/parseless.png?branch=master)](https://travis-ci.org/juliangruber/parseless)
 
 Aims:
 
